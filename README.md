@@ -338,4 +338,4 @@
 
 ### Conclusión
 
-Hemos construido gradualmente una aplicación Flutter que incluye una `AppBar` con íconos, un `Drawer`, un `FloatingActionButton`, un `BottomNavigationBar` y un widget `Home` que contiene un campo de texto y un botón para mostrar el texto ingresado. Los comentarios añadidos deberían ayudar a entender mejor cada parte del código y su función.
+Hemos construido gradualmente una aplicación Flutter que incluye una `AppBar` con íconos, un `Drawer`, un `FloatingActionButton`, un `BottomNavigationBar` y un widget `Home` que contiene un campo de texto y un botón para mostrar el texto ingresado.
